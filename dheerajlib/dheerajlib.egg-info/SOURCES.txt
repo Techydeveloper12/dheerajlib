@@ -1,8 +1,0 @@
-README.md
-setup.py
-dheerajlib/__init__.py
-dheerajlib/add.py
-dheerajlib.egg-info/PKG-INFO
-dheerajlib.egg-info/SOURCES.txt
-dheerajlib.egg-info/dependency_links.txt
-dheerajlib.egg-info/top_level.txt
